@@ -10,8 +10,6 @@ import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
 
-import minimarketdemo.model.core.utils.ModelUtil;
-
 /**
  * Objeto que encapsula la logica basica de acceso a datos mediante JPA.
  * @author mrea
